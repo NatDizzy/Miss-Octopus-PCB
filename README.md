@@ -1,7 +1,7 @@
 # Miss-Octopus-PCB!
 
 Screenshot of Schematic:
-[image](https://github.com/user-attachments/assets/a8c30c87-9ea0-4f35-a8a0-3933330fa9fe)
+![image](https://github.com/user-attachments/assets/a8c30c87-9ea0-4f35-a8a0-3933330fa9fe)
 
 Screenshot of PCB:
 ![image](https://github.com/user-attachments/assets/6a268408-9e2f-466c-a153-3cddf0ff4eb5)
